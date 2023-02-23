@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TJ Klimoski!
 - 👀 I’m interested in photography, art, entertainment, and coding.
-- 🌱 I’m currently learning Javascript, CSS, HTML, and Python.
+- 🌱 I’m currently learning MongoDB, React, NodeJS, and Express
 - 💞️ I’m looking to collaborate on dynamic interactive projects that have an entertainment focus or a sustainability / environmental focus.
 - 📫 Reach me through my linkedin: https://www.linkedin.com/in/tjklimoski/
 
