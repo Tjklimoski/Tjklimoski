@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TJ Klimoski!
 - 👀 I’m interested in photography, art, entertainment, and coding.
-- 🌱 I’m currently learning MongoDB, React, NodeJS, and Express
-- 💞️ I’m looking to collaborate on dynamic interactive projects that have an entertainment focus or a sustainability / environmental focus.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on dynamic Web applications that make a big impact. Skilled in React, Express, Node, MongoDB (MERN stack)
 - 📫 Reach me through my linkedin: https://www.linkedin.com/in/tjklimoski/
 
 <!---
